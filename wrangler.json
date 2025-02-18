@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "aged-tooth-cabd",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "98428e71-2df8-44c8-a810-0497d06b3ccd",
+      "database_name": "steep-fog-2bd7-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
